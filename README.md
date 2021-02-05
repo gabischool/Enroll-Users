@@ -1,4 +1,4 @@
-# Project Time: Advanced Form Management - User Onboarding
+# Project Time: Advanced Form Management - Enrolling Users
 
 ## Project Description
 
@@ -18,7 +18,7 @@ We've seen many different styles of form management by now -- simple to complex.
 
 #### Create Your Advanced Form
 
-We want to create a form to onboard a new user to our system. We need _at least_ the following pieces of information about our new user:
+We want to create a form to enroll a new user to our system. We need _at least_ the following pieces of information about our new user:
 
 - [ ] Name
 - [ ] Email
